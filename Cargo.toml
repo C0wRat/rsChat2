@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "rschat2",
+    "rs2_tui", 
+    "rs2_encryption", 
+    "rs2_network", 
+    "rs2_auth"
+    ]
