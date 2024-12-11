@@ -1,6 +1,6 @@
 # rschat2
 
-![rschat2_logo](./rs2_logo)
+![rschat2_logo](./rs2_logo.png)
 
 
 rschat2 is a terminal-based chat application written in Rust, designed for secure and private communication. It features end-to-end encryption, ensuring that only intended recipients can read the messages. Users can engage in private messages and create private channels, all within a text-based user interface (TUI).
