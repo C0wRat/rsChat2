@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+rs2_auth = { path = "../rs2_auth" }
+log = "0.4.22"
+pancurses = "0.17.0"

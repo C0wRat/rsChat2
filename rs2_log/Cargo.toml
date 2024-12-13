@@ -1,7 +1,9 @@
 [package]
-name = "rs2_encryption"
+name = "rs2_log"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+chrono = "0.4.39"
+env_logger = "0.11.5"
 log = "0.4.22"
